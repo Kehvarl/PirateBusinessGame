@@ -56,3 +56,44 @@ Both approaches would require some art assets, the Tycoon game would definitely 
   * port scenes
 
 ## Implementation
+
+### Phase 1
+  Let's ignore all art and assets, and just consider the simulation itself.  What is our minimal setup for that?
+
+  What variables do we track:
+  * Current Game State
+    * At Port
+      * Trading
+        * Sell
+        * Buy
+      * Depart
+        * Unknown Waters
+        * List of Known Destinations or Trade Routes
+    * At Sea
+      * Exploring
+      * In Combat
+  * Areas
+    * Name
+    * Type
+      * Sea
+      * Port
+      * Special
+  * Merchants
+    * Type
+    * Factions
+    * Frequency
+    * Attackable
+  * Treasure Ships
+    * Type
+    * Factions
+    * Frequency
+    * Combat Level Range
+    * Treasure Level Range
+  * Warships
+    * Type
+    * Factions
+    * Frequency
+    * Combat Level Range
+    * Special Features
+
+
