@@ -46,5 +46,13 @@ Both approaches would require some art assets, the Tycoon game would definitely 
   5) Trading Port
 
 ## Necessary Assets
+  * Pirate Portrait
+  * Some ships
+  * frame
+  * water
+  * combat scenes
+  * treasure scenes
+  * island scenes
+  * port scenes
 
 ## Implementation
