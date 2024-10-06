@@ -78,22 +78,33 @@ Both approaches would require some art assets, the Tycoon game would definitely 
       * Sea
       * Port
       * Special
-  * Merchants
+    * Factions
+    * Attackable
+    * Combat Level Range
+    * Treasure Level Range
+    * Special Features
+  * Ship
+    * Name
     * Type
+      * Merchant
+      * Treasure Ship
+      * Warship
     * Factions
     * Frequency
     * Attackable
-  * Treasure Ships
-    * Type
-    * Factions
-    * Frequency
     * Combat Level Range
     * Treasure Level Range
-  * Warships
-    * Type
-    * Factions
-    * Frequency
-    * Combat Level Range
     * Special Features
 
+  Example Areas
+  * Main Port
+    * Type: Port
+    * Factions: {}
+    * Attackable: False
+    * Combat: 0
+    * Treasure: 0
+    * Special Features: []
+
+  Any Port will offer trading
+  Some Ports will have factions with favorable or unfavorable status.  This can impact availability of goods and alter pricing.
 
