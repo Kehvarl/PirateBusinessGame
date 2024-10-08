@@ -108,3 +108,22 @@ Both approaches would require some art assets, the Tycoon game would definitely 
   Any Port will offer trading
   Some Ports will have factions with favorable or unfavorable status.  This can impact availability of goods and alter pricing.
 
+  Example Ships
+  * Player
+    * Type: Warship
+    * Factions: {}
+    * Attackable: True
+    * Combat: 1
+    * Treasure: 0
+    * Speacial Features: [:player]
+
+  * Ship
+    * Name: MoneyPit
+    * Type: TreasureShip
+    * Factions: {SomeOne:1}
+    * Attackable: True
+    * Combat: 1
+    * Treasure: 1
+    * Speacial Features: []
+
+
