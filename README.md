@@ -126,4 +126,12 @@ Both approaches would require some art assets, the Tycoon game would definitely 
     * Treasure: 1
     * Speacial Features: []
 
+  * Ship
+    * Name: Cargo
+      * Type: Merchant
+      * Factions: {SomeTwo: 5}
+      * Attackable: False
+      * Combat: 0
+      * Treasure: 0
+      * Special Features: []
 
