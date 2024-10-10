@@ -136,3 +136,12 @@ Both approaches would require some art assets, the Tycoon game would definitely 
       * Special Features: []
 
   Trading Options
+  * Upgrade Ship
+    * Speed
+    * Combat Level
+    * Cargo Capacity
+    * Crew
+      * Add Navigator
+      * Add Canoneer
+      * Add Quartermaster
+      * Add Lookout
