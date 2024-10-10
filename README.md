@@ -135,3 +135,4 @@ Both approaches would require some art assets, the Tycoon game would definitely 
       * Treasure: 0
       * Special Features: []
 
+  Trading Options
