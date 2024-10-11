@@ -145,3 +145,7 @@ Both approaches would require some art assets, the Tycoon game would definitely 
       * Add Canoneer
       * Add Quartermaster
       * Add Lookout
+  * Sell Cargo
+  * Buy Cargo
+  * Sell Ship
+  * Buy Ship
