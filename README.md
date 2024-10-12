@@ -83,7 +83,7 @@ Both approaches would require some art assets, the Tycoon game would definitely 
     * Combat Level Range
     * Treasure Level Range
     * Special Features
-  * Ship
+  * Ships
     * Name
     * Type
       * Merchant
@@ -116,6 +116,7 @@ Both approaches would require some art assets, the Tycoon game would definitely 
     * Combat: 1
     * Treasure: 0
     * Speacial Features: [:player]
+    * Current Cargo: {Prisoners: 0, <good>: 0}
 
   * Ship
     * Name: MoneyPit
@@ -146,6 +147,11 @@ Both approaches would require some art assets, the Tycoon game would definitely 
       * Add Quartermaster
       * Add Lookout
   * Sell Cargo
+    * Sell Goods
+    * Ransom Prisoners
+    * Sell Parts
   * Buy Cargo
+    * Buy Goods
+    * Buy Parts
   * Sell Ship
   * Buy Ship
