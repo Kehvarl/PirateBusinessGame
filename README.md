@@ -157,3 +157,17 @@ Both approaches would require some art assets, the Tycoon game would definitely 
   * Buy Ship
 
   This really seems pretty random.  Time to sit down and rethink
+
+Scene: Port
+Funds: 50g
+Ship: <ship>
+Crew: 5
+Cargo: 0t
+Status: Unknown
+Options:
+  * ~~Sell Cargo~~
+  * Buy Cargo
+  * Sell Ship
+  * ~~Buy Ship~~
+  * Buy Upgrades
+  * Set Sail
