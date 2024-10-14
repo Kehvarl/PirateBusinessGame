@@ -155,3 +155,5 @@ Both approaches would require some art assets, the Tycoon game would definitely 
     * Buy Parts
   * Sell Ship
   * Buy Ship
+
+  This really seems pretty random.  Time to sit down and rethink
