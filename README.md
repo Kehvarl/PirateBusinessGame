@@ -171,3 +171,16 @@ Options:
   * ~~Buy Ship~~
   * Buy Upgrades
   * Set Sail
+
+Scene: At Sea
+Funds: 20g
+Ship <ship>
+Crew 5
+Cargo 0t
+Status: Sailing
+Options
+  * Return to Port
+  * Explore
+  * Proceed to new Area
+  * ~~Attack~~
+  * ~~Trade~~
