@@ -184,3 +184,15 @@ Options
   * Proceed to new Area
   * ~~Attack~~
   * ~~Trade~~
+
+Scene: At Sea (Encounter)
+Funds: 20g
+Ship <ship>
+Crew 5
+Cargo 0t
+Status: Encounter
+Options
+  * Attack
+  * Retreat
+  * Parlay
+  * Special
