@@ -192,6 +192,19 @@ Crew 5
 Cargo 0t
 Status: Encounter
 Options
+  * Trade
+  * Attack
+  * Retreat
+  * Parlay
+  * Special
+
+Scene: At Sea (Combat)
+Funds: 20g
+Ship <ship>
+Crew 5
+Cargo 0t
+Status: Encounter
+Options
   * Attack
   * Retreat
   * Parlay
